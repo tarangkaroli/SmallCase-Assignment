@@ -22,6 +22,15 @@ File > Settings > Tools > Python Integrated Tools > Testing
 ```
 After that you just need to choose one of the tests from "tests" directory and click "Run test" green arrow. There are 2 versions of test in each test file. In general test cases you can easily modify test inputs. Data-driven tests base on xlsx files from [utils](utils) directory. 
 
+## Getting Started
+
+To enjoy the automated tests, develop the framework or adapt it to your own purposes, just download the project or clone repository. You need to install packages using pip according to requirements.txt file.
+Run the command below in terminal:
+
+```
+$ pip install -r requirements.txt
+```
+
 ## Bugs Doc
 
 The Bugs for the SmallCase has also been uploaded.
