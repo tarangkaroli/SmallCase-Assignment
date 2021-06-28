@@ -5,7 +5,7 @@ This the assignment project for the SmallCase QA Engineer, based on Selenum webd
 ## Project Structure
 Here you can find a short description of main directories and it's content
 - [locators](locators) - there are locators of web elements in locators.py grouped in classes
-- [pages](pages) - there are sets of method for each test step (notice: some repeated methods were moved to [functions.py](utils/functions.py))
+- [pages](pages) - there are sets of method for each test step 
 - [tests](tests) - there are sets of tests for main functionalities of website
 - [reports](reports) - if you run tests with Allure, tests reports will be saved in this directory
 - [log_listener](log_listener) - all the logs generated are kept here.
