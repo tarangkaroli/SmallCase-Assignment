@@ -1,6 +1,6 @@
 # SmallCase
 
-This the assignment project for the SmallCase QA Engineer, based on Selenum webdriver with Python.
+This the automation project on the smallcase, based on Selenum webdriver with Python.
 
 ## Project Structure
 Here you can find a short description of main directories and it's content
@@ -29,7 +29,3 @@ Run the command below in terminal:
 ```
 $ pip install -r requirements.txt
 ```
-
-## Bugs Doc
-
-The Bugs for the SmallCase has also been uploaded.
