@@ -1,4 +1,4 @@
-# SmallCase-Assignment
+# SmallCase
 
 This the assignment project for the SmallCase QA Engineer, based on Selenum webdriver with Python.
 
